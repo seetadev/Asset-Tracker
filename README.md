@@ -20,7 +20,14 @@ Supporting Research paper: https://drive.google.com/drive/u/4/folders/1HBt7zvU3G
 
 # Blockchain Eco-system
 
-1. Account Abstraction plugins for Transport DAO using Cardano and zksync: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
+1. Cardano: Please visit the Cardano Modules at https://github.com/seetadev/L2-Transport-DAO/tree/main/cardano-modules
+   Demo Videos at  https://drive.google.com/drive/u/4/folders/1o-buzIQwT-HuEfh7n5kUG8FhcKBppM65
+
+a. Cardano analytics and aggregator tooling: investigative case management and incident reporting, identity management at the time of allocation of a case to a police officer, and incident severity analysis based on the decentralized voting. Please visit Please visit https://drive.google.com/drive/u/4/folders/1o-buzIQwT-HuEfh7n5kUG8FhcKBppM65 (demo video: Main_Demo_Sound_ICM_Overview.mp4)
+
+Cardano Blockchain Modules with aggregator and analytics tooling (Cardano Calc) for tabulation, organization and visualization of on-chain data. Please visit https://github.com/seetadev/L2-Transport-DAO/tree/main/cardano-modules/cardano-analytics-modules Cardano Calc: Analytics and Aggregator tooling with a Ledger Pro (hardware wallet) dapp module. Please visit https://github.com/seetadev/L2-Transport-DAO/tree/main/cardano-modules/cardano-analytics-modules/cardano-calc
+
+b. Account Abstraction plugins for Transport DAO using Cardano and zksync: Account Abstraction Plugins for Transport DAO enables customization of verification logic via plugins with a rule/logic setting, tabulation, organization, visualization tool namely SocialCalc spreadsheet. This allows users to set up rules which their account has to abide by when executing transactions while being able to reconfigure them in the future. The process improves account security by restricting permissions certain keys have while remaining adaptable to the user's changing needs.
 
 Implementation areas of Account Abstraction plugins in Transport DAO using Cardano and zksync:
 
